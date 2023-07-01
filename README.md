@@ -22,7 +22,7 @@ Clone this repository and cd into the project directory:
 
 Run `npm install` or `npm i` inside the main project folder to install all dependencies from NPM.
 
-### Running the App locally
+### Running the App Locally
 
 Run the app locally with
 
